@@ -4,7 +4,7 @@
 
 ### `aspiring more` 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Web+Developer;Open+Source+Contributor;UI%2FUX+Enthusiast;System+Design+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85149&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Web+Developer;Open+Source+Contributor;UI%2FUX+Enthusiast;System+Design+Explorer)](https://git.io/typing-svg)
 
 </div>
 
@@ -46,14 +46,14 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushchaudhari562&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Ayush's GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaudhari562&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushchaudhari562&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=c9d1d9&ring_color=f85149" alt="Ayush's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaudhari562&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchaudhari562&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6723&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=ayushchaudhari562&theme=dark&hide_border=true&background=0d1117&stroke=f85149&ring=f85149&fire=ff4444&currStreakNum=f85149&currStreakLabel=f85149&sideNums=c9d1d9&sideLabels=f85149&dates=c9d1d9" alt="GitHub Streak"/>
 
 </div>
 
@@ -63,7 +63,7 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 <div align="center">
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudhari562&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6723&area=true&area_color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudhari562&theme=rogue&hide_border=true&bg_color=0d1117&color=f85149&line=f85149&point=ff4444&area=true&area_color=f8514930)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -73,7 +73,7 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushchaudhari562&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushchaudhari562&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -83,13 +83,13 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 ### Let's Connect! 🤝
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayushchaudhari562-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchaudhari562)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushchaudhari562-f85149?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchaudhari562)
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ayushchaudhari562&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ayushchaudhari562&style=for-the-badge&color=f85149&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
