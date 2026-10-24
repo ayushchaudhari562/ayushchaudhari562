@@ -46,8 +46,8 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushchaudhari562&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=c9d1d9&ring_color=f85149" alt="Ayush's GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaudhari562&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushchaudhari562&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=c9d1d9&ring_color=f85149" alt="Ayush's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaudhari562&layout=compact&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
@@ -63,7 +63,7 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 <div align="center">
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushchaudhari562&theme=rogue&hide_border=true&bg_color=0d1117&color=f85149&line=f85149&point=ff4444&area=true&area_color=f8514930)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://github.pumbas.net/api/contributions/ayushchaudhari562?colour=f85149&bgColour=0d1117" alt="Ayush's Contribution Activity Graph"/>
 
 </div>
 
@@ -73,7 +73,7 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushchaudhari562&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ayushchaudhari562&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 
 </div>
 
