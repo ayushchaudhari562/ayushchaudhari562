@@ -2,7 +2,7 @@
 
 ### About me
 
-<img align="right" width="30%" src="./assets/doraemon.jpg" alt="Doraemon">
+<img align="right" width="30%" src="./assets/doraemon.png" alt="Doraemon">
 
 
 Hi, I'm Ayush, a Computer Science student who enjoys understanding how software works under the hood.
