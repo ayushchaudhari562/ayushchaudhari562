@@ -1,25 +1,14 @@
-<div align="center">
 
-# Hey there! 👋 I'm **Ayush Chaudhari**
-
-### `aspiring more` 🚀
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85149&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Web+Developer;Open+Source+Contributor;UI%2FUX+Enthusiast;System+Design+Explorer)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ### About me
 
 <img align="right" width="30%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif">
 
-Hi, I'm **Ayush** — a passionate full-stack developer and student who loves building polished web applications and contributing to open-source projects.
 
-I enjoy working across the entire stack, from crafting beautiful UI/UX with React and Tailwind to architecting robust backends with Node.js, Express, and PostgreSQL. I'm always exploring new technologies, diving deep into system design, and pushing the boundaries of what's possible on the web.
+Hi, I'm Ayush, a Computer Science student who enjoys understanding how software works under the hood.
 
-When I'm not coding, you'll find me designing in Figma, contributing to open-source communities, or exploring the latest in web development.
-
+I build with Go, C++, TypeScript, and Node.js, and I'm especially interested in backend engineering and system design. My main project, CLUTCH, is a real-time collaborative platform where I implemented WebRTC signaling with Socket.io and designed a PostgreSQL and Prisma backend with recursive threaded comments and raw SQL leaderboard aggregation. I've deployed it across Vercel, Render, and Oracle Cloud(pending).
+I'm the kind of person who reads docs for fun. Whenever I get free time, I pick a new tool or technology and dig into how it works. I also like hackathons, where I once finished in the top 30 worldwide.
 <br clear="right"/>
 
 ---
@@ -69,19 +58,11 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 ---
 
-### 🏆 GitHub Trophies
+
 
 <div align="center">
 
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ayushchaudhari562&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect! 🤝
+### Let's Connect! 
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayushchaudhari562-f85149?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchaudhari562)
 
@@ -97,6 +78,6 @@ When I'm not coding, you'll find me designing in Figma, contributing to open-sou
 
 <div align="center">
 
-⭐️ From [ayushchaudhari562](https://github.com/ayushchaudhari562)
+ From [ayushchaudhari562](https://github.com/ayushchaudhari562)
 
 </div>
